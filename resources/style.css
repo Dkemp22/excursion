@@ -3,9 +3,12 @@ body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
 }
+ .cta{
+     color: aquamarine;
+     font-size: 15px;
+ }
 
 .Discover{
-    
     font-weight: normal;
     font-size: 50px;
     color: white;
@@ -36,7 +39,7 @@ h5{
     color: white;
 }
 
-footer{
+.footer{
     color: gray;
     text-align: right;
 }
