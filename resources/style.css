@@ -1,19 +1,42 @@
 body{
     background-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
 }
 
-h1{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+.Discover{
+    
     font-weight: normal;
     font-size: 50px;
     color: white;
-    text-align: center;
 }
  
 h5{
-    text-align: center;
     color: aquamarine;
     font-size: 16px;
     text-decoration:underline;
 }
 
+
+.Travel{
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+    
+}
+
+#About{
+    font-size: 21px;
+    color: gray;
+}
+
+#Soon{
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+
+footer{
+    color: gray;
+    text-align: right;
+}
